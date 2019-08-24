@@ -3,7 +3,7 @@ package foodOrderApplication;
 public class FoodItem {
 	String name;
 	int price;
-	static int ID = 1;
+	static int ID = 0;
 	
 	public FoodItem(String n, int p) {
 		name = n;
